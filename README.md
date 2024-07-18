@@ -3,9 +3,7 @@
 
 Projeto de CRUD para aprendizado da ferramenta Django, juntamente para criação de um CRUD.
 
-
-
-
+# 
 
 ## Observações :pencil::
 
@@ -13,7 +11,7 @@ Projeto de CRUD para aprendizado da ferramenta Django, juntamente para criação
 - Uso do HTML, CSS, JS e Bootstrap para criação dos Templates e estilos.
 - Uso do banco de dados SQLite 3, que já vem integrado no Django.
 
-
+# 
 
 ## Ferramentas :hammer_and_wrench::
 
