@@ -5,7 +5,7 @@ Projeto de CRUD para aprendizado da ferramenta Django, juntamente para criação
 
 ## Observações :pencil::
 
-- Uso Django para criação do CRUD. 
+- Uso do Django para criação do CRUD. 
 - Uso do HTML, CSS, JS e Bootstrap para criação dos Templates e estilos.
 - Uso do banco de dados SQLite 3, que já vem integrado no Django.
 
