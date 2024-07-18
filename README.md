@@ -3,6 +3,10 @@
 
 Projeto de CRUD para aprendizado da ferramenta Django, juntamente para criação de um CRUD.
 
+
+
+
+
 ## Observações :pencil::
 
 - Uso do Django para criação do CRUD. 
